@@ -7,7 +7,7 @@ I've made the setup and execution as simple as possible with the following steps
 - Create a new file called plugin.php.
 - In the plugin.php file, add the following code:
 
-***
+
 <?php
 
 /**
@@ -45,7 +45,6 @@ class MaliciousActivityBlocker
 }
 
 new MaliciousActivityBlocker;
-***
 
 
     - Save the plugin.php file.
